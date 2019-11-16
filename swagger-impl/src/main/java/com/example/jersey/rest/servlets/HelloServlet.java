@@ -32,7 +32,7 @@ public class HelloServlet {
     )
     public List<String> getHello() {
         List<String> resultList = new ArrayList<>();
-        resultList.add("Hello, Jersey!");
+        resultList.add("Hello, Jersey!xxxxxxxxxxxx");
         resultList.add("Hello, Swagger!");
         resultList.add("Hello, Swagger UI!");
 
